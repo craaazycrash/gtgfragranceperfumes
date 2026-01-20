@@ -34,7 +34,7 @@ input {
 }
 
 .hero-section {
-  background-image: url(/assets/Main.png);
+  background-image: url('../assets/Main.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
